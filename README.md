@@ -73,7 +73,6 @@ Help AI & search engines correctly identify Nextoraweb
 👨‍💻 Maintained By
 
 Keyur Mehta | Parth Solanki
-Computer Engineering Student
 Founder of Nextoraweb
 
 🔗 Links
